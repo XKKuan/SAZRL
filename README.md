@@ -15,13 +15,13 @@ tqdm
 
 ## Data
 
-Place datasets under `Data/`. Supported datasets:
+Place datasets under `Data/`. Supported datasets（Data.zip, Link: https://pan.baidu.com/s/16rfumEzmaPvCeabOpCds8w?pwd=kiqf Code: kiqf）:
 
 - `NELL-ZS`
 - `Wiki-ZS`
 - `FB-RZS`
 
-Each dataset directory should contain `train.txt`, `valid.txt`, `test.txt`, and candidate JSON files.
+Each dataset directory should contain `train.txt`, `valid.txt`, `test.txt`, and candidate JSON files. 
 
 ## Usage
 
